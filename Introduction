@@ -1,0 +1,22 @@
+Database - collection of data stored in a computer system and managed by DBMS .
+
+Types of databases-
+Relational - tables with rows and columns for quering and processing efficient .ex- SQL 
+Nosql - key value pairs 
+Obiject-oriented databases- same as oop , data in a oo database is represtened as objects .
+distributed databases - more files are spread accros multiple locations.
+dataware house - quick query and analysis
+graph database 
+OLTP database- An OLTP database is a quick, analytical database made to handle lots of transactions from several users at once.
+open sourse databases -open sourse can have either sql or nosql database as source code
+
+Data can be stored at different locations - Distributed database , cloud database
+
+DBMS -A Database Management System (DBMS) is software designed to store, organize, and manage data efficiently. It consists of two key components:
+
+The database is a collection of interconnected data.
+The management system ensures proper handling of data.
+DBMS can be classified into two main types:
+
+Relational Database Management System (RDBMS)
+Non-Relational Database Management System (NoSQL or Non-SQL)
